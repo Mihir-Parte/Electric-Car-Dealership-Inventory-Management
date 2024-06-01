@@ -11,8 +11,8 @@
 
     <?php
     $servername= "localhost";
-    $username = "root";
-    $password = "root";
+    $username = "";
+    $password = "";
     $dbname = "car_dealer_inventory";
     $tbci = "current_inventory";
     
