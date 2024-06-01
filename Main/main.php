@@ -11,8 +11,8 @@
 
     <?php
     $servername= "localhost";
-    $username = "";
-    $password = "";
+    $username = ""; //Add your username in between the quotations
+    $password = ""; //Add your password in between the quotations
     $dbname = "car_dealer_inventory";
     $tbci = "current_inventory";
     
